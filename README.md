@@ -37,7 +37,7 @@ A mira segue o cursor; dispare quando estiver sobre um pato.
 
 ## Licença
 
-O código e os assets incluídos neste repositório seguem a licença definida pelo autor do projeto (ajuste esta secção se aplicar uma licença específica, por exemplo MIT ou CC-BY).
+O código e os assets incluídos neste repositório seguem uma licença publica.
 
 ---
 
